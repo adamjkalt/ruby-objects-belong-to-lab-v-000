@@ -6,4 +6,4 @@ class Artist
   end
 
 end
-  beyonce = Artist.new("Beyonce")
+  artist = Artist.new("Beyonce")
