@@ -5,6 +5,6 @@ class Artist
     @name = name
   end
 
-  drake = Artist.new
+  beyonce = Artist.new
 
 end
